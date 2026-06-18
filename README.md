@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 *   💡 I enjoy tackling technical challenges and transforming them into fully functional products.
 *   💻 Comprehensive approach: From architecture design to user interface implementation.
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack 💻
 
 **Frontend & UI**  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,20 +53,16 @@
 
 ---
 
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats
-
-### 📊 GitHub Stats
+### GitHub Stats  📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wWkarlosWw&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=wWkarlosWw&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=wWkarlosWw&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wWkarlosWw&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect 📫 
 
 <div align="center">
   <a href="YOUR_LINK_HERE" target="_blank">
