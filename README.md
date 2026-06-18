@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### 📊 Most Used Language
 
- <div align=center>
+<div align="center">
   
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=wWkarlosWw-Alhamod&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wWkarlosWw&show_icons=true&locale=es&layout=compact&theme=radical)]()
   
- </div>
+</div>
