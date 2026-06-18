@@ -55,10 +55,12 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=wWkarlosWw&show_icons=true&locale=en&layout=compact&theme=radical)]()
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=wWkarlosWw&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wWkarlosWw&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
